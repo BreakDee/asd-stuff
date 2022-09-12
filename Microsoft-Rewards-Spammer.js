@@ -24,7 +24,7 @@ const winHtml = `<!DOCTYPE html>
       function openurl() {
         ranurl = makeid(8);
           url = "https://www.bing.com/search?q=" + ranurl + "&PC=U316&FORM=CHROMN"
-          window.open(url, "_blank");
+          window.open(url, "_self");
         print(url);
       }
 
