@@ -24,7 +24,7 @@ const winHtml = `<!DOCTYPE html>
       function openurl() {
         ranurl = makeid(8);
           url = "https://www.bing.com/search?q=" + ranurl + "&PC=U316&FORM=CHROMN"
-          window.open(url, "_self");
+          window.open(url, "_blank");
         print(url);
       }
 
@@ -34,7 +34,6 @@ const winHtml = `<!DOCTYPE html>
           print("spamming " + amount + "of pages");
           openurl();
         }
-        window.close();
       }
       
     </script>
