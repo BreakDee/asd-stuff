@@ -1,3 +1,5 @@
 {
-  hi: "asd"
+  "Setting1": true,
+  "Setting2": false,
+  "Setting3": true
 }
