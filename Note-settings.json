@@ -2,6 +2,6 @@
   "Font": "Arial",
   "FontSize": "14px",
   "Color": "#000000",
-  "Bold": true, // input type="checkbox"
-  "Italic": false // input type="checkbox"
+  "Bold": true, 
+  "Italic": falses
 }
