@@ -1,5 +1,7 @@
 {
-  "Setting1": true,
-  "Setting2": false,
-  "Setting3": true
+  "Font": "Arial",
+  "FontSize": "14px",
+  "Color": "#000000",
+  "Bold": true,
+  "Italic": false
 }
