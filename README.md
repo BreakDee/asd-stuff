@@ -25,12 +25,11 @@ Our unofficial Ikea Smart-Home IFTTT Service currently supports the following fe
 We/I am working on more features, so stay tuned.
 
 ### **How to Use**
-
-[Link](#how-to-use-again)
+I guess you know how to use any applet. But if not [here](#how-to-use-again) is the toturial
 
 ### **Contact & Support**
 
-If you encounter any issues or have questions about the Ikea Smart-Home IFTTT Service, please feel free to reach out to us at *ikea.unofficial.supp0rt@gmail.com*. Our team of enthusiasts will be glad to assist you.
+If you encounter any issues or have questions about the Ikea Smart-Home IFTTT Service, please feel free to reach out to us/me at [ikea.unofficial.supp0rt@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ikea.unofficial.supp0rt@gmail.com&su=Support/Bug-report). Our team of/I will be glad to assist you.
 
 Please remember that this service is not affiliated with the official IKEA brand, and any inquiries related to official IKEA products and services should be directed to their official channels.
 
